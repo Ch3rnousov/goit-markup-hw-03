@@ -294,6 +294,7 @@ body {
 }
 
 .job-title {
+  margin-top: 10px;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.1;
